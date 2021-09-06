@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello!! 👋
 
-<!--
-**dstpierre/dstpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can:
 
-Here are some ideas to get you started:
+- ✅ [Hire me for short consulting project](https://dominicstpierre.com/about)
+- ✅ [Sponsor me on Github](https://github.com/sponsors/dstpierre)
+- ✅ [Follow me on Twitter](twitter.com/dominicstpierre)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+## GitHub Stats
+
+<a href="https://github.com/dstpierre/dstpierre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstpierre&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/dstpierre/dstpierre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstpierre&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dstpierre's GitHub Stats" />
+</a>
