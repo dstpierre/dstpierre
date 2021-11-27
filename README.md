@@ -4,7 +4,8 @@ You can:
 
 - ✅ [Hire me for short consulting project](https://dominicstpierre.com/about)
 - ✅ [Sponsor me on Github](https://github.com/sponsors/dstpierre)
-- ✅ [Follow me on Twitter](twitter.com/dominicstpierre)
+- ✅ [Buy my Go course](https://buildsaasappingo.com/)
+- ✅ [Follow me on Twitter](https://twitter.com/dominicstpierre)
 
 <p>
 
