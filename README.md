@@ -14,7 +14,7 @@ You can:
 ## GitHub Stats
 
 <a href="https://github.com/dstpierre/dstpierre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css,scss,json,yaml&username=dstpierre&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=xml,html,css,scss,json,yaml&username=dstpierre&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dstpierre/dstpierre">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstpierre&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dstpierre's GitHub Stats" />
